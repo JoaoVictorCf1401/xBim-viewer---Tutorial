@@ -254,3 +254,7 @@ Obs.: Com isso os arquivos em TypeScript serão compilados para JavaScript, perm
 <br>
 
 <h3>10. Clique em <b>Generate</b></h3>
+
+<h2>Créditos</h2>
+
+<h3>Feito por @lukaofirst e @JoaoVictorCf1401</h3>
